@@ -1,4 +1,4 @@
-# IECE672 — Bayesian Hypothesis Testing
+#  Bayesian Hypothesis Testing
 
 Bayes-optimal classification of 529 citizen service requests from the SeeClickFix 311 platform (Albany County) across four categories: Parking Enforcement, Code Violations, Signs, and Traffic Signal Repairs.
 
