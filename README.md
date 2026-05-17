@@ -26,10 +26,10 @@ For each task: $P_F$, $P_D$, $P_M$, $P_\epsilon$ are reported across a grid of c
 
 ## Layout
 
-├── Code/        Implementation (Bernoulli & multinomial models, metrics, ROC)\\
-├── Data/        Dataset ((SeeClickFixAlbanyCountyFebruary2018.csv)\\
-├── Figures/     Generated plots (ROC curves, confusion matrices)\\
-├── Report/      Final PDF report\\
+├── Code/        Implementation (Bernoulli & multinomial models, metrics, ROC)\
+├── Data/        Dataset ((SeeClickFixAlbanyCountyFebruary2018.csv)\
+├── Figures/     Generated plots (ROC curves, confusion matrices)\
+├── Report/      Final PDF report
 
 
 The notebook loads the dataset from `Data/` — adjust the file path at the top of the notebook if needed.
