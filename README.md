@@ -1,6 +1,6 @@
-# IECE672 — Bayesian Hypothesis Testing
+#  Bayesian Hypothesis Testing
 
-Bayes-optimal classification of 529 citizen service requests from the SeeClickFix 311 platform (Albany County) across four categories: Parking Enforcement, Code Violations, Signs, and Traffic Signal Repairs.
+Bayes-optimal classification of 529 citizen service requests from the SeeClickFix 311 platform (Albany County) across four categories: Parking Enforcement, Code Violations, Signs, and Traffic Signal Repairs. This project was completed as a part of **IECE 672: Foundations of Statistical Inference** course(Spring 2026) at UAlbany.
 
 Two likelihood models are implemented and compared:
 - **Multi-variate Bernoulli** — binary word presence
@@ -26,12 +26,25 @@ For each task: $P_F$, $P_D$, $P_M$, $P_\epsilon$ are reported across a grid of c
 
 ## Layout
 
-├── Code/        Implementation (Bernoulli & multinomial models, metrics, ROC)
-├── Data/        Dataset ((SeeClickFixAlbanyCountyFebruary2018.csv)
-├── Figures/     Generated plots (ROC curves, confusion matrices)
+├── Code/        Implementation (Bernoulli & multinomial models, metrics, ROC)\
+├── Data/        Dataset ((SeeClickFixAlbanyCountyFebruary2018.csv)\
+├── Figures/     Generated plots (ROC curves, confusion matrices)\
 ├── Report/      Final PDF report
 
 
 The notebook loads the dataset from `Data/` — adjust the file path at the top of the notebook if needed.
 
 See the report PDF in `Report/` for derivations and discussion.
+
+
+## Author
+
+**Joy Saha**  
+Department of Electrical and Computer Engineering\
+University at Albany, SUNY  
+
+---
+
+## License
+
+This project is for **academic and educational purposes only**.
